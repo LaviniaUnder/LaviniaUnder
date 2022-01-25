@@ -1,4 +1,7 @@
-<h1>Hi, I'm Lavinia.<h1>
+<a alt="Github banner" href="https://imgur.com/zMKOHF3"><img src="https://i.imgur.com/zMKOHF3.png" title="source: imgur.com" /></a>
+##
+
+<h3> 👋 I am a designer by practicing and by love 💖. I have always been passionate about creating as much as I like challenges and learning new things, so I decided to learn how to code. I believe that coding and Design complement each other perfectly. Finally, I consider myself a very communicative and creative person it motivates me to see, hear, and work with innovative minds and transform the world through new ideas 💡. <h3>
   
 
 <div align="center">
